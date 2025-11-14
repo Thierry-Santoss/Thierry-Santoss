@@ -1,9 +1,10 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/Thierry-Santoss">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thierry-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierry-Santoss&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thierry-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierry-Santoss&layout=compact&langs_count=6&theme=tokyonight"/>
+   </a>
 </div>
     
 <div style="display: inline_block"><br>
@@ -14,7 +15,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Contatos!
  
 <div> 
   <a href="mailto:thierrysantosd0@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
