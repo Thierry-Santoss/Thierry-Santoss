@@ -8,8 +8,8 @@ Desenvolvedor em constante aprendizado, focado em criar interfaces modernas e fu
 
 <div align="center">
   <a href="https://github.com/Thierry-Santoss">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thierry-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thierry-Santoss&layout=compact&langs_count=6&theme=tokyonight" alt="Linguagens mais usadas" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thierry-Santoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thierry-Santoss&layout=compact&langs_count=6&theme=tokyonight" />
   </a>
 </div>
 
